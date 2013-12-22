@@ -1,0 +1,3 @@
+[submodule "PhotoDownloader/PhotoDownloader/PhotoDownloader/Libraries/AFNetworking"]
+	path = PhotoDownloader/PhotoDownloader/PhotoDownloader/Libraries/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
